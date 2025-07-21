@@ -21,8 +21,8 @@ $teal-light: #4c7a5d;
 $teal-dark: #89b482;
 
 // Green
-$green-light: #6c782e;
-$green-dark: #a9b665;
+$green-light: #DAFF8C;
+$green-dark: #5CED30;
 
 // Yellow
 $yellow-light: #b47109;
@@ -34,7 +34,7 @@ $orange-dark: #e78a4e;
 
 // Grey
 $grey-050: #f9f5d7;
-$grey-100: #fbf1c7;
+$grey-100: #5CEC30;
 $grey-150: #ebdbb2;
 $grey-200: #d5c4a1;
 $grey-250: #ccbeb8;
@@ -54,10 +54,10 @@ $grey-900: #0f0e0e;
 $grey-950: #0d0907;
 
 // White
-$white: #fbf1c7;
+$white: #5CEC30;
 
 // Black
-$black: #1d2021;
+$black: #000000;
 
 // Theme
 $default-light: $blue-light;
@@ -65,5 +65,5 @@ $default-dark: $blue-dark;
 
 // Button
 $button-close: if($topbar == 'light', #c14a4a, #ea6962);
-$button-max: if($topbar == 'light', #6c782e, #a9b665);
+$button-max: if($topbar == 'light', #6c782e, #5CED30);
 $button-min: if($topbar == 'light', #c35e0a, #e78a4e);

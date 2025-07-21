@@ -22,9 +22,9 @@
 <constant name="C_button_close_focused_bg" value="#ea6962"/>
 <constant name="C_button_close_hover_bg" value="#c14a4a"/>
 <constant name="C_button_close_active_bg" value="#ea6962"/>
-<constant name="C_button_max_focused_bg" value="#a9b665"/>
+<constant name="C_button_max_focused_bg" value="#5CED30"/>
 <constant name="C_button_max_hover_bg" value="#6c782e"/>
-<constant name="C_button_max_active_bg" value="#a9b665"/>
+<constant name="C_button_max_active_bg" value="#5CED30"/>
 <constant name="C_button_min_focused_bg" value="#e78a4e"/>
 <constant name="C_button_min_hover_bg" value="#c35e0a"/>
 <constant name="C_button_min_active_bg" value="#e78a4e"/>
